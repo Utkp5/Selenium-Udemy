@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class HandleDropDown_with_Selecttag {
 
-	public static void main(String[] args) {
+	public static void main(String []args) {
 		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
@@ -18,10 +18,6 @@ public class HandleDropDown_with_Selecttag {
 		
 		s.selectByVisibleText("Google");
 		
-	}
-
-	public static void main(String[] args) {
-		/Selenium-Udemy/src/test/java/Basics/HandleDropDown_with_Selecttag.java
 	}
 	
 }
