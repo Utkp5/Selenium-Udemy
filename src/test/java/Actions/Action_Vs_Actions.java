@@ -5,7 +5,7 @@ import org.openqa.selenium.interactions.Actions;
 public class Action_Vs_Actions {
 
 	public static void main(String[] args) {
-		http://demo.guru99.com/test/drag_drop.html
+//		http://demo.guru99.com/test/drag_drop.html
 		
         //WebElement button=driver.findElement(By.xpath("//span[@class='context-menu-one btn btn-neutral']"));
 		
